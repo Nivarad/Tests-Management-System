@@ -1,0 +1,6 @@
+
+Question : What animal barks?
+	 1. Dog
+	 2. Cat
+	 3. Cow
+	 4. Crow
